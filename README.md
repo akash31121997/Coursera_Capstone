@@ -36,4 +36,4 @@ Collision_Severity - the Collision Severity etc...
 
 Under the Attributes Description, kindly ignore the Vehicle Attrs, only refer to the Collision Attrs
 
-![result](C:\Users\user\Pictures\Screenshots\Screenshot (92).png)
+![result](https://github.com/akash31121997/Coursera_Capstone/blob/master/Screenshot%20(92).png)
