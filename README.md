@@ -35,3 +35,5 @@ Policing_Area - the Policing area
 Collision_Severity - the Collision Severity etc...
 
 Under the Attributes Description, kindly ignore the Vehicle Attrs, only refer to the Collision Attrs
+
+![result](C:\Users\user\Pictures\Screenshots\Screenshot (92).png)
