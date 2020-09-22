@@ -13,3 +13,25 @@ may be of great utility to various Government Departments/Authorities like Polic
 be used by these Departments to take appropriate measures to reduce accident impact and thereby improve traffic safety. It is also useful to the Insurers in terms of reduced 
 claims and better underwriting as well as rate making. The error metric for this multi classification problem is the accuracy Predict the Collision_Severity column. 
 There are 3 classes under the Collision_Severity {1,2,3}. The evaluation is the accuracy metric.
+
+## File descriptions
+Accident_train_head.csv - the head (first 5 records) of the training set
+
+Accident_test.csv - the test set
+
+Accident_train.csv - the train set
+
+sample_submission2.csv - a sample submission file in the correct format .
+
+AttributeLevelsDescription.csv - Detailed description about the attributes the data
+
+Accident_train.csv - the train set
+
+## Data fields
+Collision_Ref_No - a Collision Reference Number
+
+Policing_Area - the Policing area
+
+Collision_Severity - the Collision Severity etc...
+
+Under the Attributes Description, kindly ignore the Vehicle Attrs, only refer to the Collision Attrs
